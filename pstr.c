@@ -1,4 +1,3 @@
-pstr.c‏
 #include "monty.h"
 /**
  * f_pstr - prints the string starting at the top of the stack,

@@ -1,4 +1,3 @@
-pall.c‏
 #include "monty.h"
 /**
  * f_pall - prints the stack
